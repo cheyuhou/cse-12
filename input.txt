@@ -1,0 +1,14 @@
+mySample.txt, /home, 02/01/2021
+mySample.txt, /root, 02/01/2021
+mySample.txt, /user, 02/06/2021
+homework1.txt, /home, 02/01/2021
+homework2.txt, /root, 02/01/2021
+homework3.txt, /user, 02/02/2021
+homework4.txt, /home, 02/01/2021
+homework5.txt, /root, 02/02/2021
+homework6.txt, /user, 02/03/2021
+homework7.txt, /home, 02/10/2021
+homework8.txt, /root, 02/15/2021
+homework9.txt, /user, 02/01/2021
+super1.txt, /home, 02/01/2020
+notSoSuper.txt, /root, 02/05/2020
